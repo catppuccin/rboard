@@ -53,7 +53,7 @@
 
 ## 💝 Thanks to
 
-- [Human](https://github.com/catppuccin)
+- [Quinx](https://github.com/Quinxxxx)
 
 &nbsp;
 
