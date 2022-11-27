@@ -36,15 +36,17 @@
 
 ## Usage
 
-1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+1. Go into the themes folder ([themes](https://github.com/Quinxxxx/Rboard/tree/Main/Themes))
+2. Choose your flavour
+3. Choose your colour (right now theres only blue but I'll make one for all colours)
+4. Click "view rawr" and theme should download as .pack
+5. Locate downloaded theme using a file manager
+6. Import to Rboard Theme Manager
 
 ## 🙋 FAQ (optional)
 
--	Q: **_"Where can I find the doc?"_**\
-	A: Run `:help theme`
+-	Q: **_"I switched from Mgaisk Module/Gboard installation and theme has gone!"_**\
+	A: `Find downloaded .pack theme and import to Rboard Theme Manager`
 
 ## 💝 Thanks to
 
