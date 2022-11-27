@@ -39,11 +39,11 @@
 1. Go into the themes folder ([themes](https://github.com/Quinxxxx/Rboard/tree/Main/Themes))
 2. Choose your flavour
 3. Choose your colour
-4. Click "view raw" and theme should download as .pack
-5. Locate downloaded theme using a file manager
+4. Click "view raw" and theme should download as flavour_colour.pack
+5. Locate downloaded theme pack using a file manager
 6. Import to Rboard Theme Manager
 
-## 🙋 FAQ (optional)
+## 🙋 FAQ
 
 -	Q: **_"I switched from Mgaisk Module/Gboard installation and theme has gone!"_**
 	- A: Find downloaded .pack theme and import to Rboard Theme Manager
