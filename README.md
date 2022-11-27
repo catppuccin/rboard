@@ -39,7 +39,7 @@
 1. Go into the themes folder ([themes](https://github.com/Quinxxxx/Rboard/tree/Main/Themes))
 2. Choose your flavour
 3. Choose your colour (right now theres only blue but I'll make one for all colours)
-4. Click "view rawr" and theme should download as .pack
+4. Click "view raw" and theme should download as .pack
 5. Locate downloaded theme using a file manager
 6. Import to Rboard Theme Manager
 
