@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/previews/preview.webp"/>
+	<img src="https://github.com/Quinxxxx/Rboard/blob/Main/assets/rboard.png"/>
 </p>
 
 ## Previews
