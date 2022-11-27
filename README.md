@@ -45,8 +45,11 @@
 
 ## 🙋 FAQ (optional)
 
--	Q: **_"I switched from Mgaisk Module/Gboard installation and theme has gone!"_**\
-	A: `Find downloaded .pack theme and import to Rboard Theme Manager`
+-	Q: **_"I switched from Mgaisk Module/Gboard installation and theme has gone!"_**
+	- A: Find downloaded .pack theme and import to Rboard Theme Manager
+
+-	Q: **_"Is Blue the only colour?"_**
+	- A: No, I'll be adding all colours for all flavours
 
 ## 💝 Thanks to
 
