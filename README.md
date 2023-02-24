@@ -46,7 +46,7 @@
 
 ## 🙋 FAQ
 
-- **Q:** **_"I switched from Mgaisk Module/Gboard installation and theme has
+- **Q:** **_"I switched from Magisk Module/Gboard installation and theme has
   gone!"_**\
   A: Find downloaded .pack theme and import to Rboard Theme Manager
 
