@@ -55,7 +55,7 @@
 
 ## 💝 Thanks to
 
-- [Quinx](https://github.com/Quinxxxx)
+- [Moodzz](https://github.com/Moodzz1)
 
 &nbsp;
 
